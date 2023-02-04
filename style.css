@@ -1,7 +1,7 @@
 :root{
-    --dark-color: linear-gradient(#291377, #3b1386);
+    --dark-color: linear-gradient(#da3a3a, #cf2348);
     --purplr-color: #f89500;
-    --light-color: #c4c5fa;
+    --light-color: #ffd8c2;
 }
 
 html{
@@ -25,7 +25,7 @@ body{
 .navigation{
     margin:70px 0 130px 50px;
     height: 34vh;
-    background: #9299fc;
+    background: #ffb01c;
     width: 70px;
     position: fixed;
     border-radius: 40px;
